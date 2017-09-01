@@ -19,10 +19,10 @@ Collection of modified files for Risu (https://github.com/hammackj/risu)
 
 #### Templates Included:
 * custom_failed_stig_check
-Generate a DETAILED and ACCURATE pdf report of failed DISA STIG compliance checks from Nessus scans. Failed checks are organized by CAT level.
+    * Generate a DETAILED and ACCURATE pdf report of failed DISA STIG compliance checks from Nessus scans. Failed checks are organized by CAT level.
 
 * custom_host_findings_csv
-Generates a detailed csv report of vulnerabilities found which can be sorted for analysis
+    * Generates a detailed csv report of vulnerabilities found which can be sorted for analysis
 
 #### Other:
 * Item.rb
